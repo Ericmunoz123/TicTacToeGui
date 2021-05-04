@@ -166,11 +166,10 @@ public class TicTacToeGUI extends JFrame {
 		}
 
 
-<<<<<<< HEAD
+
 
    }}
-=======
-   }
 
-}
->>>>>>> diagonal
+   
+
+
