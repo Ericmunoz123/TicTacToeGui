@@ -138,7 +138,7 @@ public class TicTacToeGUI extends JFrame {
       // 0,0 + 1,1 + 2,2		
       // 0,2 + 1,1 + 2,0
 
-<<<<<<< HEAD
+
 	   if(	taulell[0][0].getText().equals(jugadorActual)&&
    			taulell[0][1].getText().equals(jugadorActual)&&
    			taulell[0][2].getText().equals(jugadorActual)||
@@ -162,7 +162,6 @@ public class TicTacToeGUI extends JFrame {
 			tenimGuanyador = true;
 		}
 
-=======
->>>>>>> 6295a663252b7b56901c02c03759ced85a796cd3
+
 
    }}
